@@ -1,7 +1,7 @@
 name: Deploy Vite to Pages
    on:
      push:
-       branches: [ "master" ]
+       branches: [ "mestre" ]
      workflow_dispatch:
    permissions:
      contents: read
