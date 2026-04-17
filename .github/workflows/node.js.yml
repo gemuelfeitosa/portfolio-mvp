@@ -1,4 +1,4 @@
-name: Implante o Vite para as Páginas
+name: Deploy Vite to Pages
    
    on:
      push:
