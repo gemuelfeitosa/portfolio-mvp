@@ -1,12 +1,12 @@
 import './App.css'
-import Header from './components/Header'
-import Projetos from './components/Projetos'
 
 function App() {
   return (
     <>
-      <Header />
-      <Projetos />
+      <div>
+        <h1>Portfolio MVP</h1>
+        <p>Site no ar! 🚀</p>
+      </div>
     </>
   )
 }
